@@ -1,0 +1,5 @@
+vendor/
+checkpoints/*
+!checkpoints/README.md
+__pycache__/
+*.pyc
